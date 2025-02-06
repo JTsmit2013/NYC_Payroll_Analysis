@@ -27,3 +27,10 @@ The dataset includes information on city employee salaries, overtime pay, benefi
 - Scikit-learn: Machine learning (if applicable)
 
 - Jupyter Notebook: Interactive analysis
+
+# Data Science
+- EDA
+- data visualization
+- model selection
+- hyperparameter tuning
+- model evaluation
